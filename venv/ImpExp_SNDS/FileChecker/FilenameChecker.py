@@ -46,7 +46,7 @@ class FilenameChecker:
     def is_doted(self, string):
         """
         A method used on a string to know if it contains a dot ('.').
-
+        Petit ajout
         :param string: A string to check.
         :return: True if check results are OK.
         :rtype: boolean
