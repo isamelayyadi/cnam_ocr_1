@@ -1,0 +1,4 @@
+make html -> dans le dossier ou le mak est présent, créer la documentation sphinx
+make clean -> efface tous ce qui se trouve dans le dossier build
+sphinx-apidoc -o source/ D:\Alexis\Travail\import_export_SNDS\ImpExp_SNDS\venv\ImpExp_SNDS autogénère les sources
+sphinx-apidoc -o source/ D:\Alexis\Travail\import_export_SNDS\ImpExp_SNDS\venv\ImpExp_SNDS --implicit-namespaces autogénère les sources récursivement
